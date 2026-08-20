@@ -31,6 +31,27 @@ pipeline, from brief to publication.
 | **5 steps** | script → visuals → voice → animation → editing, fully automated end to end |
 | **1 → ∞** | one pipeline, built to adapt to any editorial niche |
 
+## See it in action
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://youtube.com/shorts/xpsF_KUCLj0"><img src="https://img.youtube.com/vi/xpsF_KUCLj0/hqdefault.jpg" width="220"/></a><br/>
+      <sub>Is your PC overheating? Do THIS</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://youtube.com/shorts/APlIvSjAKIo"><img src="https://img.youtube.com/vi/APlIvSjAKIo/hqdefault.jpg" width="220"/></a><br/>
+      <sub>The Windows mistake 90% of gamers make</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://youtube.com/shorts/XU9S3SswqHA"><img src="https://img.youtube.com/vi/XU9S3SswqHA/hqdefault.jpg" width="220"/></a><br/>
+      <sub>FPS drops with a good rig? Do THIS</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center"><sub>More on the <a href="https://www.youtube.com/@BenoitFreeman">pilot channel</a> — every video produced end to end by FreemanLabs.</sub></div>
+
 ## The vision
 
 FreemanLabs' technical layer — orchestration, visual continuity, production
