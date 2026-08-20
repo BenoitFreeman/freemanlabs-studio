@@ -50,6 +50,15 @@ that means for privacy. 😉
 
 <div align="center"><sub>More coming soon on the <a href="https://www.youtube.com/@BenoitFreeman">pilot channel</a>.</sub></div>
 
+## Built to keep up
+
+AI models move fast — FreemanLabs is built not to fall behind:
+
+- **Pulls new models on demand**, straight from Hugging Face and CivitAI, no manual setup.
+- **Self-diagnoses**: when a workflow is missing a dependency, it tells you exactly what's missing instead of failing silently — you just hit download.
+- **Repairs and converts workflows automatically**, turning a standard export into something production-ready without hand-editing.
+- Not locked to today's models — designed to absorb whatever comes out next.
+
 ## The vision
 
 FreemanLabs' technical layer — orchestration, visual continuity, production
