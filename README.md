@@ -45,6 +45,10 @@ that means for privacy. 😉
       <a href="https://youtube.com/shorts/UmQVU3AFYuU"><img src="https://img.youtube.com/vi/UmQVU3AFYuU/hqdefault.jpg" width="220"/></a><br/>
       <sub>The hidden number 90% of gamers ignore</sub>
     </td>
+    <td width="33%" align="center">
+      <a href="https://youtube.com/shorts/CNaFMA7Fbh0"><img src="https://img.youtube.com/vi/CNaFMA7Fbh0/hqdefault.jpg" width="220"/></a><br/>
+      <sub>Is your thermal paste really dead?</sub>
+    </td>
   </tr>
 </table>
 
