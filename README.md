@@ -36,21 +36,13 @@ pipeline, from brief to publication.
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://youtube.com/shorts/xpsF_KUCLj0"><img src="https://img.youtube.com/vi/xpsF_KUCLj0/hqdefault.jpg" width="220"/></a><br/>
-      <sub>Is your PC overheating? Do THIS</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://youtube.com/shorts/APlIvSjAKIo"><img src="https://img.youtube.com/vi/APlIvSjAKIo/hqdefault.jpg" width="220"/></a><br/>
-      <sub>The Windows mistake 90% of gamers make</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://youtube.com/shorts/XU9S3SswqHA"><img src="https://img.youtube.com/vi/XU9S3SswqHA/hqdefault.jpg" width="220"/></a><br/>
-      <sub>FPS drops with a good rig? Do THIS</sub>
+      <a href="https://youtube.com/shorts/UmQVU3AFYuU"><img src="https://img.youtube.com/vi/UmQVU3AFYuU/hqdefault.jpg" width="220"/></a><br/>
+      <sub>The hidden number 90% of gamers ignore</sub>
     </td>
   </tr>
 </table>
 
-<div align="center"><sub>More on the <a href="https://www.youtube.com/@BenoitFreeman">pilot channel</a> — every video produced end to end by FreemanLabs.</sub></div>
+<div align="center"><sub>More coming soon on the <a href="https://www.youtube.com/@BenoitFreeman">pilot channel</a>.</sub></div>
 
 ## The vision
 
