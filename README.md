@@ -23,6 +23,11 @@ This isn't a prototype. It's the real infrastructure behind an active
 YouTube channel: every published video comes directly out of this
 pipeline, from brief to publication.
 
+Everything above runs entirely **on local hardware** — a single consumer
+GPU, no cloud rendering farm. Nothing about a brief or its output ever has
+to leave the machine to get produced. Draw your own conclusions about what
+that means for privacy. 😉
+
 ## Proof, not promises
 
 | | |
@@ -30,6 +35,7 @@ pipeline, from brief to publication.
 | **104** | videos produced in a single night, unsupervised |
 | **5 steps** | script → visuals → voice → animation → editing, fully automated end to end |
 | **1 → ∞** | one pipeline, built to adapt to any editorial niche |
+| **1× RTX 3060** | the entire pipeline runs on one consumer-grade GPU |
 
 ## See it in action
 
